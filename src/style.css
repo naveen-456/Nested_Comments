@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2014/07/01/15/40/balloon-381334_1280.png);
+    background-position: center;
+    background-size: cover;
+}
+input{
+    margin: 10px;
+    border: 2px solid black;
+}
+button{
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color:blue;
+}
